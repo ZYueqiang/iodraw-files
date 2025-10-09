@@ -323,16 +323,16 @@
           <mxGeometry x="460" y="1039.42" width="150" height="73.33" as="geometry" />
         </mxCell>
         <mxCell id="2P-AC5-Gd09haudyw9Gj-44" value="电价预测模块" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="268.9375" y="970.7533333333333" width="60" height="62" as="geometry" />
+          <mxGeometry x="274" y="970.7533333333333" width="60" height="62" as="geometry" />
         </mxCell>
         <mxCell id="2P-AC5-Gd09haudyw9Gj-45" value="。。。" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="349" y="970.7533333333333" width="60" height="62" as="geometry" />
         </mxCell>
         <mxCell id="2P-AC5-Gd09haudyw9Gj-64" value="NLP" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1046.08" width="60" height="62" as="geometry" />
+          <mxGeometry x="543" y="1046.08" width="60" height="62" as="geometry" />
         </mxCell>
         <mxCell id="2P-AC5-Gd09haudyw9Gj-63" value="OCR" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1046.9999999999998" width="60" height="62" as="geometry" />
+          <mxGeometry x="467" y="1046.9999999999998" width="60" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
