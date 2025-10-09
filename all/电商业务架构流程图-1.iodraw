@@ -238,8 +238,11 @@
         <mxCell id="2P-AC5-Gd09haudyw9Gj-9" value="多源数据融合" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-745" y="880" width="70" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2P-AC5-Gd09haudyw9Gj-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2P-AC5-Gd09haudyw9Gj-10" target="2P-AC5-Gd09haudyw9Gj-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2P-AC5-Gd09haudyw9Gj-10" value="数据存储" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-650" y="880" width="70" height="60" as="geometry" />
+          <mxGeometry x="-630" y="880" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2P-AC5-Gd09haudyw9Gj-11" value="数据处理" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-528" y="880" width="60" height="60" as="geometry" />
@@ -282,6 +285,9 @@
         </mxCell>
         <mxCell id="2P-AC5-Gd09haudyw9Gj-32" value="特征工程" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-408" y="880" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2P-AC5-Gd09haudyw9Gj-33" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;rounded=1;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="860" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
