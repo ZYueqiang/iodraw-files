@@ -253,10 +253,10 @@
         <mxCell id="2P-AC5-Gd09haudyw9Gj-22" value="深度学习" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-775" y="790" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2P-AC5-Gd09haudyw9Gj-23" value="拣货" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="2P-AC5-Gd09haudyw9Gj-23" value="机器学习" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-655" y="790" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2P-AC5-Gd09haudyw9Gj-24" value="打包" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="2P-AC5-Gd09haudyw9Gj-24" value="强化学习" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-510" y="790" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2P-AC5-Gd09haudyw9Gj-25" value="虚拟银台" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
