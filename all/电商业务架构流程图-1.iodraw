@@ -269,7 +269,7 @@
           <mxGeometry x="-300" y="700" width="50" height="127" as="geometry" />
         </mxCell>
         <mxCell id="2P-AC5-Gd09haudyw9Gj-29" value="智能体" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="710" width="110" height="110" as="geometry" />
+          <mxGeometry y="710" width="100" height="110" as="geometry" />
         </mxCell>
         <mxCell id="2P-AC5-Gd09haudyw9Gj-30" value="OCR" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="120" y="711" width="100" height="105" as="geometry" />
