@@ -269,7 +269,7 @@
           <mxGeometry x="-300" y="720" width="50" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2P-AC5-Gd09haudyw9Gj-28" value="AI预测应用" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="40" y="470" width="320" height="35" as="geometry" />
+          <mxGeometry x="155" y="473" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2P-AC5-Gd09haudyw9Gj-29" value="智能体" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-120" y="730" width="70" height="60" as="geometry" />
@@ -284,16 +284,16 @@
           <mxGeometry x="117" y="1000" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2P-AC5-Gd09haudyw9Gj-41" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="40" y="510" width="320" height="80" as="geometry" />
+          <mxGeometry x="175" y="530" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2P-AC5-Gd09haudyw9Gj-43" value="限电预测" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="70" y="520" width="70" height="60" as="geometry" />
+          <mxGeometry x="70" y="535" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2P-AC5-Gd09haudyw9Gj-44" value="电价预测" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="165" y="520" width="70" height="60" as="geometry" />
+          <mxGeometry x="165" y="535" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2P-AC5-Gd09haudyw9Gj-45" value="。。。" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="260" y="520" width="50" height="50" as="geometry" />
+          <mxGeometry x="270" y="535" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2P-AC5-Gd09haudyw9Gj-46" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-810" y="310" width="320" height="80" as="geometry" />
