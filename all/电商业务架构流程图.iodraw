@@ -146,10 +146,10 @@
           <mxGeometry x="-770" y="600" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-47" value="拣货" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;fillStyle=solid;fillColor=#f8cecc;strokeColor=#b85450;spacingTop=-1;" parent="1" vertex="1">
-          <mxGeometry x="-650" y="600" width="100" height="20" as="geometry" />
+          <mxGeometry x="-649" y="600" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-48" value="打包" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;fillStyle=solid;fillColor=#f8cecc;strokeColor=#b85450;spacingTop=-1;" parent="1" vertex="1">
-          <mxGeometry x="-510" y="600" width="100" height="20" as="geometry" />
+          <mxGeometry x="-529" y="600" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-49" value="虚拟银台" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;fillStyle=solid;fillColor=#f8cecc;strokeColor=#b85450;spacingTop=-1;" parent="1" vertex="1">
           <mxGeometry x="-408" y="600" width="100" height="20" as="geometry" />
