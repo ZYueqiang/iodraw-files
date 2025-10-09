@@ -323,7 +323,7 @@
           <mxGeometry x="151.25" y="49.99999999999999" width="48.125" height="59.99999999999999" as="geometry" />
         </mxCell>
         <mxCell id="2P-AC5-Gd09haudyw9Gj-61" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;交易结算单智能识别与解析模块&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
-          <mxGeometry x="440" y="870.92" width="153" height="46.08" as="geometry" />
+          <mxGeometry x="427" y="905.92" width="153" height="46.08" as="geometry" />
         </mxCell>
         <mxCell id="2P-AC5-Gd09haudyw9Gj-62" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="430" y="952" width="150" height="73.33" as="geometry" />
