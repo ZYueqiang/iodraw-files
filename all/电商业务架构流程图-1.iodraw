@@ -214,6 +214,24 @@
         <mxCell id="3zW76zUc4abTS6v-kVaw-70" value="&lt;font style=&quot;font-size: 17px&quot;&gt;插&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;4&quot;&gt;入&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;4&quot;&gt;网&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;4&quot;&gt;关&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="-840" y="-10" width="50" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="2P-AC5-Gd09haudyw9Gj-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="-830" y="581" width="540" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2P-AC5-Gd09haudyw9Gj-2" value="&lt;font style=&quot;font-size: 20px&quot;&gt;生&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;4&quot;&gt;产&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="-830" y="581" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2P-AC5-Gd09haudyw9Gj-3" value="面单" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="591" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2P-AC5-Gd09haudyw9Gj-4" value="拣货" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="591" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2P-AC5-Gd09haudyw9Gj-5" value="打包" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="-505" y="591" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2P-AC5-Gd09haudyw9Gj-6" value="虚拟银台" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="-403" y="596" width="80" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
