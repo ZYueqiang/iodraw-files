@@ -242,13 +242,10 @@
           <mxGeometry x="-775" y="880" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2P-AC5-Gd09haudyw9Gj-10" value="数据存储" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-655" y="880" width="70" height="60" as="geometry" />
+          <mxGeometry x="-600" y="880" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2P-AC5-Gd09haudyw9Gj-11" value="数据处理" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-510" y="880" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2P-AC5-Gd09haudyw9Gj-12" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-408" y="885" width="80" height="60" as="geometry" />
+          <mxGeometry x="-425" y="880" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2P-AC5-Gd09haudyw9Gj-20" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-835" y="780" width="540" height="80" as="geometry" />
