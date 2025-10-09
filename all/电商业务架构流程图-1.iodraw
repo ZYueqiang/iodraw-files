@@ -304,11 +304,13 @@
         <mxCell id="2P-AC5-Gd09haudyw9Gj-59" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&#xa;mso-font-kerning:0.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;多场景化限电预测模块&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="590" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="2P-AC5-Gd09haudyw9Gj-61" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;交易结算单智能识别与解析模块&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
-          <mxGeometry x="427" y="905.92" width="153" height="46.08" as="geometry" />
+        <mxCell id="2P-AC5-Gd09haudyw9Gj-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2P-AC5-Gd09haudyw9Gj-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="655.0000000000005" y="837" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="2P-AC5-Gd09haudyw9Gj-62" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="429" y="952" width="150" height="73.33" as="geometry" />
+        <mxCell id="2P-AC5-Gd09haudyw9Gj-61" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;交易结算单智能识别与解析模块&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
+          <mxGeometry x="580" y="880.92" width="153" height="46.08" as="geometry" />
         </mxCell>
         <mxCell id="2P-AC5-Gd09haudyw9Gj-63" value="OCR" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="430" y="957.66" width="60" height="62" as="geometry" />
@@ -333,6 +335,9 @@
         </mxCell>
         <mxCell id="2P-AC5-Gd09haudyw9Gj-45" value="。。。" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="345.25" y="971.7533333333333" width="48.125" height="54.999999999999986" as="geometry" />
+        </mxCell>
+        <mxCell id="2P-AC5-Gd09haudyw9Gj-69" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="204" y="972.5866666666666" width="220" height="73.33333333333331" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
