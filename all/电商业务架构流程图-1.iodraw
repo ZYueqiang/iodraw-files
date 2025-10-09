@@ -313,10 +313,10 @@
           <mxGeometry x="580" y="880.92" width="153" height="46.08" as="geometry" />
         </mxCell>
         <mxCell id="2P-AC5-Gd09haudyw9Gj-63" value="OCR" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="430" y="957.66" width="60" height="62" as="geometry" />
+          <mxGeometry x="495" y="1052.6599999999999" width="60" height="62" as="geometry" />
         </mxCell>
         <mxCell id="2P-AC5-Gd09haudyw9Gj-64" value="NLP" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="520" y="955" width="60" height="62" as="geometry" />
+          <mxGeometry x="620" y="1058.33" width="60" height="62" as="geometry" />
         </mxCell>
         <mxCell id="2P-AC5-Gd09haudyw9Gj-65" value="智能体" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="480" y="480" width="100" height="100" as="geometry" />
@@ -337,7 +337,7 @@
           <mxGeometry x="345.25" y="971.7533333333333" width="48.125" height="54.999999999999986" as="geometry" />
         </mxCell>
         <mxCell id="2P-AC5-Gd09haudyw9Gj-69" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="204" y="972.5866666666666" width="220" height="73.33333333333331" as="geometry" />
+          <mxGeometry x="480" y="1046.9966666666667" width="220" height="73.33333333333331" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
