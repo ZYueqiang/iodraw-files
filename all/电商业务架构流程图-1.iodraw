@@ -97,10 +97,10 @@
         <mxCell id="2P-AC5-Gd09haudyw9Gj-69" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="-450" y="677.4200000000001" width="150" height="73.33" as="geometry" />
         </mxCell>
-        <mxCell id="2P-AC5-Gd09haudyw9Gj-64" value="NLP" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=0;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="2P-AC5-Gd09haudyw9Gj-64" value="NLP" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=0;fontColor=#FFFFFF;fillColor=#2f5596;" parent="1" vertex="1">
           <mxGeometry x="-367" y="684.0799999999999" width="60" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="2P-AC5-Gd09haudyw9Gj-63" value="OCR" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=0;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="2P-AC5-Gd09haudyw9Gj-63" value="OCR" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=0;fontColor=#FFFFFF;fillColor=#2f5596;" parent="1" vertex="1">
           <mxGeometry x="-443" y="684.9999999999998" width="60" height="62" as="geometry" />
         </mxCell>
         <mxCell id="2P-AC5-Gd09haudyw9Gj-73" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px;&quot;&gt;其他&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;align=center;fontStyle=0" parent="1" vertex="1">
@@ -118,13 +118,13 @@
         <mxCell id="2P-AC5-Gd09haudyw9Gj-41" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="-680" y="676.6666666666666" width="220" height="73.33333333333331" as="geometry" />
         </mxCell>
-        <mxCell id="2P-AC5-Gd09haudyw9Gj-43" value="限电预测模块" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=0;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="2P-AC5-Gd09haudyw9Gj-43" value="限电预测模块" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=0;fontColor=#FFFFFF;fillColor=#2f5596;" parent="1" vertex="1">
           <mxGeometry x="-674.375" y="684.8333333333334" width="60" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="2P-AC5-Gd09haudyw9Gj-44" value="电价预测模块" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=0;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="2P-AC5-Gd09haudyw9Gj-44" value="电价预测模块" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=0;fontColor=#FFFFFF;fillColor=#2f5596;" parent="1" vertex="1">
           <mxGeometry x="-600" y="684.8333333333334" width="60" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="2P-AC5-Gd09haudyw9Gj-45" value="。。。" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=0;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="2P-AC5-Gd09haudyw9Gj-45" value="。。。" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=0;fontColor=#FFFFFF;fillColor=#2f5596;" parent="1" vertex="1">
           <mxGeometry x="-525" y="684.8333333333334" width="60" height="62" as="geometry" />
         </mxCell>
       </root>
