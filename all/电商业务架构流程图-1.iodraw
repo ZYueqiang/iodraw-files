@@ -79,12 +79,6 @@
         <mxCell id="2P-AC5-Gd09haudyw9Gj-65" value="智能体" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="80" y="420" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2P-AC5-Gd09haudyw9Gj-70" value="" style="group;fontStyle=0;fillColor=#2f5596;container=0;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-450" y="620" width="153" height="130.75" as="geometry" />
-        </mxCell>
-        <mxCell id="2P-AC5-Gd09haudyw9Gj-71" value="" style="group;fontStyle=0;fillColor=#2f5596;container=0;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-680" y="620" width="220" height="129.9999999999999" as="geometry" />
-        </mxCell>
         <mxCell id="2P-AC5-Gd09haudyw9Gj-77" value="" style="group;fontStyle=0;fillColor=#dae8fc;container=0;strokeColor=#6c8ebf;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-292" y="620" width="80" height="130.75" as="geometry" />
         </mxCell>
